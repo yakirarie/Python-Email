@@ -1,0 +1,8 @@
+Hi {name}!
+
+    Thank you for your purchase on {date}.
+    we hope you are excited about using it. Just as a
+    reminder the purchase total was ${amount}.
+    Have a great one!
+
+Yakir 2020
