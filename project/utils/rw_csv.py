@@ -99,7 +99,7 @@ def delete_data(edit_id=None, email=None):
 
 if __name__ == '__main__':
     filename = 'D:\pyCharm Projects\Python Email\data.csv'
-    append_data(filename, 'alice', 'yakirpython@gmail.com', 1)
-    append_data(filename, 'bob', 'yakirpython@gmail.com', 5)
-    append_data(filename, 'cat', 'yakirpython@gmail.com', 1)
-    append_data(filename, 'dog', 'yakirpython@gmail.com', 2)
+    append_data(filename, 'alice', 'otherGmail@gmail.com', 1)
+    append_data(filename, 'bob', 'otherGmail@gmail.com', 5)
+    append_data(filename, 'cat', 'otherGmail@gmail.com', 1)
+    append_data(filename, 'dog', 'otherGmail@gmail.com', 2)
